@@ -1,4 +1,4 @@
 function validarEmail(email) {
-return email.includes('@');
+  return email.includes("@");
 }
 module.exports = validarEmail;
